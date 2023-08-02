@@ -1,6 +1,10 @@
+# choose the Pre-Production branch for files to fork/check-out.most are the 2013 individual files. 
+## + Finished Files (non tested/verified) create a pull-request in the [Development]('../development'j branch
+
+
 # 08/01/2023 update
--- a *builder's* mod will be available soon for those interested in learning or assisting on developing with us. 
--- testing begins this month - we will need players to test race/subrace builds, (because we have new system) leveling, area trams, saves, spawns, and make sure the NPC's dont go postal on you.... etc.  *these tests are NOT part of the Campaign prep testing*
++ a *builder's* mod will be available soon for those interested in learning or assisting on developing with us.
++ + testing begins this month - we will need players to test race/subrace builds, (because we have new system) leveling, area trams, saves, spawns, and make sure the NPC's dont go postal on you.... etc.  *these tests are NOT part of the Campaign prep testing*
 
 ### anyone a writer/hobby writer? 
 -- I need someone to who likes to write/type help DM Fubar compile/write lore books for the mod. Check Discord for more info
