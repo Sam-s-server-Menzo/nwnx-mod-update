@@ -4,6 +4,10 @@
 
 ### anyone a writer/hobby writer? 
 -- I need someone to who likes to write/type help DM Fubar compile/write lore books for the mod. Check Discord for more info
+
+# part duex.. 
+### im going to upload areas sans scripts 1st, haks in another group, and then scripts. (Something like that).. 
+
 ------------------------------------------------------------------------------------------------------------------------------------------
  # 07/12/23 
 # nwnx-mod-update
